@@ -1,0 +1,381 @@
+Clients : 4
+Queues : 2
+MAX Simulation : 60
+MIN Arrival Time : 2
+MAX Arrival Time : 30
+MIN Service Time : 2
+MAX Service Time : 4
+Clients:
+(1,4,3 / wTime = 0)  ;
+(4,5,4 / wTime = 0)  ;
+(3,25,2 / wTime = 0)  ;
+(2,30,3 / wTime = 0)  ;
+
+
+Time : 1
+Waiting clients : (1,4,3 / wTime = 0)  ;(4,5,4 / wTime = 0)  ;(3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 2
+Waiting clients : (1,4,3 / wTime = 0)  ;(4,5,4 / wTime = 0)  ;(3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 3
+Waiting clients : (1,4,3 / wTime = 0)  ;(4,5,4 / wTime = 0)  ;(3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 4
+Waiting clients : (1,4,3 / wTime = 0)  ;(4,5,4 / wTime = 0)  ;(3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 5
+Waiting clients : (4,5,4 / wTime = 0)  ;(3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: (1,4,2 / wTime = 1)  ;
+Queue 2: CLOSED
+---------------------
+
+Time : 6
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: (1,4,1 / wTime = 2)  ;
+Queue 2: (4,5,3 / wTime = 1)  ;
+---------------------
+
+Time : 7
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (4,5,2 / wTime = 2)  ;
+---------------------
+
+Time : 8
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (4,5,1 / wTime = 3)  ;
+---------------------
+
+Time : 9
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 10
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 11
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 12
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 13
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 14
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 15
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 16
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 17
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 18
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 19
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 20
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 21
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 22
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 23
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 24
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 25
+Waiting clients : (3,25,2 / wTime = 0)  ;(2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 26
+Waiting clients : (2,30,3 / wTime = 0)  ;
+Queue 1: (3,25,1 / wTime = 1)  ;
+Queue 2: CLOSED
+---------------------
+
+Time : 27
+Waiting clients : (2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 28
+Waiting clients : (2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 29
+Waiting clients : (2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 30
+Waiting clients : (2,30,3 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 31
+Waiting clients : 
+Queue 1: (2,30,2 / wTime = 1)  ;
+Queue 2: CLOSED
+---------------------
+
+Time : 32
+Waiting clients : 
+Queue 1: (2,30,1 / wTime = 2)  ;
+Queue 2: CLOSED
+---------------------
+
+Time : 33
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 34
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 35
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 36
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 37
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 38
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 39
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 40
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 41
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 42
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 43
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 44
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 45
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 46
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 47
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 48
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 49
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 50
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 51
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 52
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 53
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 54
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 55
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 56
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 57
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 58
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 59
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 60
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Time : 61
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+---------------------
+
+Average waiting time : 2.0

@@ -1,0 +1,610 @@
+Clients : 50
+Queues : 5
+MAX Simulation : 60
+MIN Arrival Time : 2
+MAX Arrival Time : 40
+MIN Service Time : 1
+MAX Service Time : 7
+Clients:
+(31,2,2 / wTime = 0)  ;
+(3,3,2 / wTime = 0)  ;
+(47,4,3 / wTime = 0)  ;
+(41,4,4 / wTime = 0)  ;
+(32,4,5 / wTime = 0)  ;
+(42,5,1 / wTime = 0)  ;
+(15,6,5 / wTime = 0)  ;
+(12,9,3 / wTime = 0)  ;
+(29,10,1 / wTime = 0)  ;
+(7,10,2 / wTime = 0)  ;
+(6,10,6 / wTime = 0)  ;
+(19,11,2 / wTime = 0)  ;
+(46,11,5 / wTime = 0)  ;
+(22,12,6 / wTime = 0)  ;
+(39,13,2 / wTime = 0)  ;
+(14,14,3 / wTime = 0)  ;
+(44,15,1 / wTime = 0)  ;
+(50,15,2 / wTime = 0)  ;
+(16,15,7 / wTime = 0)  ;
+(13,16,2 / wTime = 0)  ;
+(40,20,3 / wTime = 0)  ;
+(38,21,3 / wTime = 0)  ;
+(36,21,4 / wTime = 0)  ;
+(21,22,4 / wTime = 0)  ;
+(1,23,2 / wTime = 0)  ;
+(26,23,7 / wTime = 0)  ;
+(49,23,7 / wTime = 0)  ;
+(20,24,3 / wTime = 0)  ;
+(25,25,3 / wTime = 0)  ;
+(48,25,3 / wTime = 0)  ;
+(8,25,6 / wTime = 0)  ;
+(18,26,2 / wTime = 0)  ;
+(30,26,4 / wTime = 0)  ;
+(45,27,3 / wTime = 0)  ;
+(23,27,6 / wTime = 0)  ;
+(24,27,7 / wTime = 0)  ;
+(37,28,2 / wTime = 0)  ;
+(9,29,7 / wTime = 0)  ;
+(35,31,3 / wTime = 0)  ;
+(4,31,5 / wTime = 0)  ;
+(28,31,7 / wTime = 0)  ;
+(34,32,5 / wTime = 0)  ;
+(5,33,4 / wTime = 0)  ;
+(43,33,5 / wTime = 0)  ;
+(11,33,7 / wTime = 0)  ;
+(33,36,2 / wTime = 0)  ;
+(17,36,3 / wTime = 0)  ;
+(10,36,7 / wTime = 0)  ;
+(27,40,3 / wTime = 0)  ;
+(2,40,6 / wTime = 0)  ;
+
+
+Time : 1
+Waiting clients : (31,2,2 / wTime = 0)  ;(3,3,2 / wTime = 0)  ;(47,4,3 / wTime = 0)  ;(41,4,4 / wTime = 0)  ;(32,4,5 / wTime = 0)  ;(42,5,1 / wTime = 0)  ;(15,6,5 / wTime = 0)  ;(12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 2
+Waiting clients : (31,2,2 / wTime = 0)  ;(3,3,2 / wTime = 0)  ;(47,4,3 / wTime = 0)  ;(41,4,4 / wTime = 0)  ;(32,4,5 / wTime = 0)  ;(42,5,1 / wTime = 0)  ;(15,6,5 / wTime = 0)  ;(12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 3
+Waiting clients : (3,3,2 / wTime = 0)  ;(47,4,3 / wTime = 0)  ;(41,4,4 / wTime = 0)  ;(32,4,5 / wTime = 0)  ;(42,5,1 / wTime = 0)  ;(15,6,5 / wTime = 0)  ;(12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (31,2,1 / wTime = 1)  ;
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 4
+Waiting clients : (47,4,3 / wTime = 0)  ;(41,4,4 / wTime = 0)  ;(32,4,5 / wTime = 0)  ;(42,5,1 / wTime = 0)  ;(15,6,5 / wTime = 0)  ;(12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (3,3,1 / wTime = 1)  ;
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 5
+Waiting clients : (42,5,1 / wTime = 0)  ;(15,6,5 / wTime = 0)  ;(12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (47,4,2 / wTime = 1)  ;
+Queue 2: CLOSED
+Queue 3: (41,4,3 / wTime = 1)  ;
+Queue 4: (32,4,4 / wTime = 1)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 6
+Waiting clients : (15,6,5 / wTime = 0)  ;(12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (47,4,1 / wTime = 2)  ;
+Queue 2: CLOSED
+Queue 3: (41,4,2 / wTime = 2)  ;
+Queue 4: (32,4,3 / wTime = 2)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 7
+Waiting clients : (12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (15,6,4 / wTime = 1)  ;
+Queue 3: (41,4,1 / wTime = 3)  ;
+Queue 4: (32,4,2 / wTime = 3)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 8
+Waiting clients : (12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (15,6,3 / wTime = 2)  ;
+Queue 3: CLOSED
+Queue 4: (32,4,1 / wTime = 4)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 9
+Waiting clients : (12,9,3 / wTime = 0)  ;(29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (15,6,2 / wTime = 3)  ;
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 10
+Waiting clients : (29,10,1 / wTime = 0)  ;(7,10,2 / wTime = 0)  ;(6,10,6 / wTime = 0)  ;(19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (12,9,2 / wTime = 1)  ;
+Queue 2: (15,6,1 / wTime = 4)  ;
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 11
+Waiting clients : (19,11,2 / wTime = 0)  ;(46,11,5 / wTime = 0)  ;(22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (12,9,1 / wTime = 2)  ;
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: (7,10,1 / wTime = 1)  ;
+Queue 5: (6,10,5 / wTime = 1)  ;
+---------------------
+
+Time : 12
+Waiting clients : (22,12,6 / wTime = 0)  ;(39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (19,11,1 / wTime = 1)  ;
+Queue 3: (46,11,4 / wTime = 1)  ;
+Queue 4: CLOSED
+Queue 5: (6,10,4 / wTime = 2)  ;
+---------------------
+
+Time : 13
+Waiting clients : (39,13,2 / wTime = 0)  ;(14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (22,12,5 / wTime = 1)  ;
+Queue 2: CLOSED
+Queue 3: (46,11,3 / wTime = 2)  ;
+Queue 4: CLOSED
+Queue 5: (6,10,3 / wTime = 3)  ;
+---------------------
+
+Time : 14
+Waiting clients : (14,14,3 / wTime = 0)  ;(44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (22,12,4 / wTime = 2)  ;
+Queue 2: (39,13,1 / wTime = 1)  ;
+Queue 3: (46,11,2 / wTime = 3)  ;
+Queue 4: CLOSED
+Queue 5: (6,10,2 / wTime = 4)  ;
+---------------------
+
+Time : 15
+Waiting clients : (44,15,1 / wTime = 0)  ;(50,15,2 / wTime = 0)  ;(16,15,7 / wTime = 0)  ;(13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (22,12,3 / wTime = 3)  ;
+Queue 2: CLOSED
+Queue 3: (46,11,1 / wTime = 4)  ;
+Queue 4: (14,14,2 / wTime = 1)  ;
+Queue 5: (6,10,1 / wTime = 5)  ;
+---------------------
+
+Time : 16
+Waiting clients : (13,16,2 / wTime = 0)  ;(40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (22,12,2 / wTime = 4)  ;
+Queue 2: (50,15,2 / wTime = 0)  ;
+Queue 3: (16,15,7 / wTime = 0)  ;
+Queue 4: (14,14,1 / wTime = 2)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 17
+Waiting clients : (40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (22,12,1 / wTime = 5)  ;
+Queue 2: (50,15,1 / wTime = 1)  ;
+Queue 3: (16,15,6 / wTime = 1)  ;
+Queue 4: CLOSED
+Queue 5: (13,16,1 / wTime = 1)  ;
+---------------------
+
+Time : 18
+Waiting clients : (40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: (16,15,5 / wTime = 2)  ;
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 19
+Waiting clients : (40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: (16,15,4 / wTime = 3)  ;
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 20
+Waiting clients : (40,20,3 / wTime = 0)  ;(38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: (16,15,3 / wTime = 4)  ;
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 21
+Waiting clients : (38,21,3 / wTime = 0)  ;(36,21,4 / wTime = 0)  ;(21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (40,20,2 / wTime = 1)  ;
+Queue 2: CLOSED
+Queue 3: (16,15,2 / wTime = 5)  ;
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 22
+Waiting clients : (21,22,4 / wTime = 0)  ;(1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (40,20,1 / wTime = 2)  ;
+Queue 2: (38,21,2 / wTime = 1)  ;
+Queue 3: (16,15,1 / wTime = 6)  ;
+Queue 4: (36,21,3 / wTime = 1)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 23
+Waiting clients : (1,23,2 / wTime = 0)  ;(26,23,7 / wTime = 0)  ;(49,23,7 / wTime = 0)  ;(20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: CLOSED
+Queue 2: (38,21,1 / wTime = 2)  ;
+Queue 3: CLOSED
+Queue 4: (36,21,2 / wTime = 2)  ;
+Queue 5: (21,22,3 / wTime = 1)  ;
+---------------------
+
+Time : 24
+Waiting clients : (20,24,3 / wTime = 0)  ;(25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (1,23,1 / wTime = 1)  ;
+Queue 2: (49,23,7 / wTime = 0)  ;
+Queue 3: (26,23,6 / wTime = 1)  ;
+Queue 4: (36,21,1 / wTime = 3)  ;
+Queue 5: (21,22,2 / wTime = 2)  ;
+---------------------
+
+Time : 25
+Waiting clients : (25,25,3 / wTime = 0)  ;(48,25,3 / wTime = 0)  ;(8,25,6 / wTime = 0)  ;(18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (20,24,3 / wTime = 0)  ;
+Queue 2: (49,23,6 / wTime = 1)  ;
+Queue 3: (26,23,5 / wTime = 2)  ;
+Queue 4: CLOSED
+Queue 5: (21,22,1 / wTime = 3)  ;
+---------------------
+
+Time : 26
+Waiting clients : (18,26,2 / wTime = 0)  ;(30,26,4 / wTime = 0)  ;(45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (8,25,6 / wTime = 1)  ;(20,24,2 / wTime = 1)  ;
+Queue 2: (49,23,5 / wTime = 2)  ;
+Queue 3: (26,23,4 / wTime = 3)  ;
+Queue 4: (25,25,2 / wTime = 1)  ;
+Queue 5: (48,25,3 / wTime = 0)  ;
+---------------------
+
+Time : 27
+Waiting clients : (45,27,3 / wTime = 0)  ;(23,27,6 / wTime = 0)  ;(24,27,7 / wTime = 0)  ;(37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (8,25,6 / wTime = 2)  ;(20,24,1 / wTime = 2)  ;
+Queue 2: (49,23,4 / wTime = 3)  ;
+Queue 3: (26,23,3 / wTime = 4)  ;
+Queue 4: (18,26,2 / wTime = 1)  ;(25,25,1 / wTime = 2)  ;
+Queue 5: (30,26,4 / wTime = 1)  ;(48,25,2 / wTime = 1)  ;
+---------------------
+
+Time : 28
+Waiting clients : (37,28,2 / wTime = 0)  ;(9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (8,25,6 / wTime = 2)  ;
+Queue 2: (24,27,7 / wTime = 1)  ;(49,23,3 / wTime = 4)  ;
+Queue 3: (45,27,3 / wTime = 1)  ;(26,23,2 / wTime = 5)  ;
+Queue 4: (23,27,6 / wTime = 0)  ;(18,26,2 / wTime = 1)  ;
+Queue 5: (30,26,4 / wTime = 2)  ;(48,25,1 / wTime = 2)  ;
+---------------------
+
+Time : 29
+Waiting clients : (9,29,7 / wTime = 0)  ;(35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (8,25,5 / wTime = 3)  ;
+Queue 2: (24,27,7 / wTime = 2)  ;(49,23,2 / wTime = 5)  ;
+Queue 3: (37,28,2 / wTime = 1)  ;(45,27,3 / wTime = 2)  ;(26,23,1 / wTime = 6)  ;
+Queue 4: (23,27,6 / wTime = 1)  ;(18,26,1 / wTime = 2)  ;
+Queue 5: (30,26,4 / wTime = 2)  ;
+---------------------
+
+Time : 30
+Waiting clients : (35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (8,25,4 / wTime = 4)  ;
+Queue 2: (24,27,7 / wTime = 3)  ;(49,23,1 / wTime = 6)  ;
+Queue 3: (37,28,2 / wTime = 1)  ;(45,27,3 / wTime = 2)  ;
+Queue 4: (23,27,6 / wTime = 1)  ;
+Queue 5: (9,29,7 / wTime = 1)  ;(30,26,3 / wTime = 3)  ;
+---------------------
+
+Time : 31
+Waiting clients : (35,31,3 / wTime = 0)  ;(4,31,5 / wTime = 0)  ;(28,31,7 / wTime = 0)  ;(34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (8,25,3 / wTime = 5)  ;
+Queue 2: (24,27,7 / wTime = 3)  ;
+Queue 3: (37,28,2 / wTime = 2)  ;(45,27,2 / wTime = 3)  ;
+Queue 4: (23,27,5 / wTime = 2)  ;
+Queue 5: (9,29,7 / wTime = 2)  ;(30,26,2 / wTime = 4)  ;
+---------------------
+
+Time : 32
+Waiting clients : (34,32,5 / wTime = 0)  ;(5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (35,31,3 / wTime = 1)  ;(8,25,2 / wTime = 6)  ;
+Queue 2: (24,27,6 / wTime = 4)  ;
+Queue 3: (4,31,5 / wTime = 1)  ;(37,28,2 / wTime = 3)  ;(45,27,1 / wTime = 4)  ;
+Queue 4: (28,31,7 / wTime = 1)  ;(23,27,4 / wTime = 3)  ;
+Queue 5: (9,29,7 / wTime = 3)  ;(30,26,1 / wTime = 5)  ;
+---------------------
+
+Time : 33
+Waiting clients : (5,33,4 / wTime = 0)  ;(43,33,5 / wTime = 0)  ;(11,33,7 / wTime = 0)  ;(33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (34,32,5 / wTime = 1)  ;(35,31,3 / wTime = 2)  ;(8,25,1 / wTime = 7)  ;
+Queue 2: (24,27,5 / wTime = 5)  ;
+Queue 3: (4,31,5 / wTime = 1)  ;(37,28,2 / wTime = 3)  ;
+Queue 4: (28,31,7 / wTime = 2)  ;(23,27,3 / wTime = 4)  ;
+Queue 5: (9,29,7 / wTime = 3)  ;
+---------------------
+
+Time : 34
+Waiting clients : (33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (34,32,5 / wTime = 1)  ;(35,31,3 / wTime = 2)  ;
+Queue 2: (5,33,4 / wTime = 1)  ;(24,27,4 / wTime = 6)  ;
+Queue 3: (43,33,5 / wTime = 1)  ;(4,31,5 / wTime = 2)  ;(37,28,1 / wTime = 4)  ;
+Queue 4: (28,31,7 / wTime = 3)  ;(23,27,2 / wTime = 5)  ;
+Queue 5: (11,33,7 / wTime = 1)  ;(9,29,6 / wTime = 4)  ;
+---------------------
+
+Time : 35
+Waiting clients : (33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (34,32,5 / wTime = 2)  ;(35,31,2 / wTime = 3)  ;
+Queue 2: (5,33,4 / wTime = 2)  ;(24,27,3 / wTime = 7)  ;
+Queue 3: (43,33,5 / wTime = 1)  ;(4,31,5 / wTime = 2)  ;
+Queue 4: (28,31,7 / wTime = 4)  ;(23,27,1 / wTime = 6)  ;
+Queue 5: (11,33,7 / wTime = 2)  ;(9,29,5 / wTime = 5)  ;
+---------------------
+
+Time : 36
+Waiting clients : (33,36,2 / wTime = 0)  ;(17,36,3 / wTime = 0)  ;(10,36,7 / wTime = 0)  ;(27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (34,32,5 / wTime = 3)  ;(35,31,1 / wTime = 4)  ;
+Queue 2: (5,33,4 / wTime = 3)  ;(24,27,2 / wTime = 8)  ;
+Queue 3: (43,33,5 / wTime = 2)  ;(4,31,4 / wTime = 3)  ;
+Queue 4: (28,31,7 / wTime = 4)  ;
+Queue 5: (11,33,7 / wTime = 3)  ;(9,29,4 / wTime = 6)  ;
+---------------------
+
+Time : 37
+Waiting clients : (27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (33,36,2 / wTime = 0)  ;(34,32,5 / wTime = 3)  ;
+Queue 2: (17,36,3 / wTime = 1)  ;(5,33,4 / wTime = 4)  ;(24,27,1 / wTime = 9)  ;
+Queue 3: (43,33,5 / wTime = 3)  ;(4,31,3 / wTime = 4)  ;
+Queue 4: (10,36,7 / wTime = 1)  ;(28,31,6 / wTime = 5)  ;
+Queue 5: (11,33,7 / wTime = 4)  ;(9,29,3 / wTime = 7)  ;
+---------------------
+
+Time : 38
+Waiting clients : (27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (33,36,2 / wTime = 1)  ;(34,32,4 / wTime = 4)  ;
+Queue 2: (17,36,3 / wTime = 1)  ;(5,33,4 / wTime = 4)  ;
+Queue 3: (43,33,5 / wTime = 4)  ;(4,31,2 / wTime = 5)  ;
+Queue 4: (10,36,7 / wTime = 2)  ;(28,31,5 / wTime = 6)  ;
+Queue 5: (11,33,7 / wTime = 5)  ;(9,29,2 / wTime = 8)  ;
+---------------------
+
+Time : 39
+Waiting clients : (27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (33,36,2 / wTime = 2)  ;(34,32,3 / wTime = 5)  ;
+Queue 2: (17,36,3 / wTime = 2)  ;(5,33,3 / wTime = 5)  ;
+Queue 3: (43,33,5 / wTime = 5)  ;(4,31,1 / wTime = 6)  ;
+Queue 4: (10,36,7 / wTime = 3)  ;(28,31,4 / wTime = 7)  ;
+Queue 5: (11,33,7 / wTime = 6)  ;(9,29,1 / wTime = 9)  ;
+---------------------
+
+Time : 40
+Waiting clients : (27,40,3 / wTime = 0)  ;(2,40,6 / wTime = 0)  ;
+Queue 1: (33,36,2 / wTime = 3)  ;(34,32,2 / wTime = 6)  ;
+Queue 2: (17,36,3 / wTime = 3)  ;(5,33,2 / wTime = 6)  ;
+Queue 3: (43,33,5 / wTime = 5)  ;
+Queue 4: (10,36,7 / wTime = 4)  ;(28,31,3 / wTime = 8)  ;
+Queue 5: (11,33,7 / wTime = 6)  ;
+---------------------
+
+Time : 41
+Waiting clients : 
+Queue 1: (27,40,3 / wTime = 1)  ;(33,36,2 / wTime = 4)  ;(34,32,1 / wTime = 7)  ;
+Queue 2: (2,40,6 / wTime = 1)  ;(17,36,3 / wTime = 4)  ;(5,33,1 / wTime = 7)  ;
+Queue 3: (43,33,4 / wTime = 6)  ;
+Queue 4: (10,36,7 / wTime = 5)  ;(28,31,2 / wTime = 9)  ;
+Queue 5: (11,33,6 / wTime = 7)  ;
+---------------------
+
+Time : 42
+Waiting clients : 
+Queue 1: (27,40,3 / wTime = 1)  ;(33,36,2 / wTime = 4)  ;
+Queue 2: (2,40,6 / wTime = 1)  ;(17,36,3 / wTime = 4)  ;
+Queue 3: (43,33,3 / wTime = 7)  ;
+Queue 4: (10,36,7 / wTime = 6)  ;(28,31,1 / wTime = 10)  ;
+Queue 5: (11,33,5 / wTime = 8)  ;
+---------------------
+
+Time : 43
+Waiting clients : 
+Queue 1: (27,40,3 / wTime = 2)  ;(33,36,1 / wTime = 5)  ;
+Queue 2: (2,40,6 / wTime = 2)  ;(17,36,2 / wTime = 5)  ;
+Queue 3: (43,33,2 / wTime = 8)  ;
+Queue 4: (10,36,7 / wTime = 6)  ;
+Queue 5: (11,33,4 / wTime = 9)  ;
+---------------------
+
+Time : 44
+Waiting clients : 
+Queue 1: (27,40,3 / wTime = 2)  ;
+Queue 2: (2,40,6 / wTime = 3)  ;(17,36,1 / wTime = 6)  ;
+Queue 3: (43,33,1 / wTime = 9)  ;
+Queue 4: (10,36,6 / wTime = 7)  ;
+Queue 5: (11,33,3 / wTime = 10)  ;
+---------------------
+
+Time : 45
+Waiting clients : 
+Queue 1: (27,40,2 / wTime = 3)  ;
+Queue 2: (2,40,6 / wTime = 3)  ;
+Queue 3: CLOSED
+Queue 4: (10,36,5 / wTime = 8)  ;
+Queue 5: (11,33,2 / wTime = 11)  ;
+---------------------
+
+Time : 46
+Waiting clients : 
+Queue 1: (27,40,1 / wTime = 4)  ;
+Queue 2: (2,40,5 / wTime = 4)  ;
+Queue 3: CLOSED
+Queue 4: (10,36,4 / wTime = 9)  ;
+Queue 5: (11,33,1 / wTime = 12)  ;
+---------------------
+
+Time : 47
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: (2,40,4 / wTime = 5)  ;
+Queue 3: CLOSED
+Queue 4: (10,36,3 / wTime = 10)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 48
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: (2,40,3 / wTime = 6)  ;
+Queue 3: CLOSED
+Queue 4: (10,36,2 / wTime = 11)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 49
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: (2,40,2 / wTime = 7)  ;
+Queue 3: CLOSED
+Queue 4: (10,36,1 / wTime = 12)  ;
+Queue 5: CLOSED
+---------------------
+
+Time : 50
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: (2,40,1 / wTime = 8)  ;
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 51
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 52
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 53
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 54
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 55
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 56
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 57
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 58
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 59
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 60
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Time : 61
+Waiting clients : 
+Queue 1: CLOSED
+Queue 2: CLOSED
+Queue 3: CLOSED
+Queue 4: CLOSED
+Queue 5: CLOSED
+---------------------
+
+Average waiting time : 4.18
